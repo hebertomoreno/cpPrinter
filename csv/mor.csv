@@ -1,0 +1,433 @@
+CVEGEO,Nombre,CP
+17002,Atlatlahucan,62843
+17002,Atlatlahucan,62845
+17002,Atlatlahucan,62847
+17002,Atlatlahucan,62840
+17002,Atlatlahucan,62844
+17002,Atlatlahucan,62846
+17004,Ayala,62704
+17004,Ayala,62713
+17004,Ayala,62715
+17004,Ayala,62718
+17004,Ayala,62723
+17004,Ayala,62725
+17004,Ayala,62700
+17004,Ayala,62710
+17004,Ayala,62714
+17004,Ayala,62717
+17004,Ayala,62720
+17004,Ayala,62724
+17006,Cuautla,62742
+17006,Cuautla,62744
+17006,Cuautla,62747
+17006,Cuautla,62754
+17006,Cuautla,62756
+17006,Cuautla,62740
+17006,Cuautla,62743
+17006,Cuautla,62746
+17006,Cuautla,62748
+17006,Cuautla,62755
+17006,Cuautla,62757
+17008,Emiliano Zapata,62763
+17008,Emiliano Zapata,62765
+17008,Emiliano Zapata,62767
+17008,Emiliano Zapata,62760
+17008,Emiliano Zapata,62764
+17008,Emiliano Zapata,62766
+17008,Emiliano Zapata,62768
+17010,Jantetelco,62972
+17010,Jantetelco,62974
+17010,Jantetelco,62976
+17010,Jantetelco,62978
+17010,Jantetelco,62970
+17010,Jantetelco,62973
+17010,Jantetelco,62975
+17010,Jantetelco,62977
+17012,Jojutla,62905
+17012,Jojutla,62907
+17012,Jojutla,62909
+17012,Jojutla,62912
+17012,Jojutla,62914
+17012,Jojutla,62916
+17012,Jojutla,62900
+17012,Jojutla,62906
+17012,Jojutla,62908
+17012,Jojutla,62910
+17012,Jojutla,62913
+17012,Jojutla,62915
+17012,Jojutla,62917
+17014,Mazatepec,62633
+17014,Mazatepec,62635
+17014,Mazatepec,62630
+17014,Mazatepec,62634
+17014,Mazatepec,62636
+17016,Ocuituco,62853
+17016,Ocuituco,62855
+17016,Ocuituco,62857
+17016,Ocuituco,62863
+17016,Ocuituco,62865
+17016,Ocuituco,62867
+17016,Ocuituco,62850
+17016,Ocuituco,62854
+17016,Ocuituco,62856
+17016,Ocuituco,62860
+17016,Ocuituco,62864
+17016,Ocuituco,62866
+17018,Temixco,62583
+17018,Temixco,62585
+17018,Temixco,62587
+17018,Temixco,62590
+17018,Temixco,62594
+17018,Temixco,62596
+17018,Temixco,62580
+17018,Temixco,62584
+17018,Temixco,62586
+17018,Temixco,62588
+17018,Temixco,62593
+17018,Temixco,62595
+17018,Temixco,62599
+17019,Tepalcingo,62923
+17019,Tepalcingo,62925
+17019,Tepalcingo,62927
+17019,Tepalcingo,62920
+17019,Tepalcingo,62924
+17019,Tepalcingo,62926
+17021,Tetecala,62623
+17021,Tetecala,62625
+17021,Tetecala,62620
+17021,Tetecala,62624
+17021,Tetecala,62626
+17023,Tlalnepantla,62534
+17023,Tlalnepantla,62536
+17023,Tlalnepantla,62530
+17023,Tlalnepantla,62535
+17025,Tlaquiltenango,62983
+17025,Tlaquiltenango,62985
+17025,Tlaquiltenango,62987
+17025,Tlaquiltenango,62990
+17025,Tlaquiltenango,62994
+17025,Tlaquiltenango,62996
+17025,Tlaquiltenango,62980
+17025,Tlaquiltenango,62984
+17025,Tlaquiltenango,62986
+17025,Tlaquiltenango,62988
+17025,Tlaquiltenango,62993
+17025,Tlaquiltenango,62995
+17027,Totolapan,62832
+17027,Totolapan,62834
+17027,Totolapan,62830
+17027,Totolapan,62833
+17027,Totolapan,62835
+17029,Yautepec,62732
+17029,Yautepec,62735
+17029,Yautepec,62737
+17029,Yautepec,62739
+17029,Yautepec,62730
+17029,Yautepec,62733
+17029,Yautepec,62736
+17029,Yautepec,62738
+17031,Zacatepec,62784
+17031,Zacatepec,62780
+17031,Zacatepec,62785
+17001,Amacuzac,62643
+17001,Amacuzac,62645
+17001,Amacuzac,62647
+17001,Amacuzac,62654
+17001,Amacuzac,62656
+17001,Amacuzac,62640
+17001,Amacuzac,62644
+17001,Amacuzac,62646
+17001,Amacuzac,62653
+17001,Amacuzac,62655
+17001,Amacuzac,62657
+17003,Axochiapan,62952
+17003,Axochiapan,62954
+17003,Axochiapan,62956
+17003,Axochiapan,62962
+17003,Axochiapan,62965
+17003,Axochiapan,62950
+17003,Axochiapan,62953
+17003,Axochiapan,62955
+17003,Axochiapan,62957
+17003,Axochiapan,62963
+17005,Coatlán del Río,62613
+17005,Coatlán del Río,62615
+17005,Coatlán del Río,62610
+17005,Coatlán del Río,62614
+17005,Coatlán del Río,62616
+17007,Cuernavaca,62008
+17007,Cuernavaca,62010
+17007,Cuernavaca,62018
+17007,Cuernavaca,62020
+17007,Cuernavaca,62029
+17007,Cuernavaca,62037
+17007,Cuernavaca,62039
+17007,Cuernavaca,62050
+17007,Cuernavaca,62059
+17007,Cuernavaca,62070
+17007,Cuernavaca,62080
+17007,Cuernavaca,62084
+17007,Cuernavaca,62103
+17007,Cuernavaca,62116
+17007,Cuernavaca,62120
+17007,Cuernavaca,62130
+17007,Cuernavaca,62136
+17007,Cuernavaca,62139
+17007,Cuernavaca,62143
+17007,Cuernavaca,62145
+17007,Cuernavaca,62153
+17007,Cuernavaca,62156
+17007,Cuernavaca,62159
+17007,Cuernavaca,62163
+17007,Cuernavaca,62165
+17007,Cuernavaca,62170
+17007,Cuernavaca,62175
+17007,Cuernavaca,62180
+17007,Cuernavaca,62193
+17007,Cuernavaca,62203
+17007,Cuernavaca,62205
+17007,Cuernavaca,62210
+17007,Cuernavaca,62215
+17007,Cuernavaca,62218
+17007,Cuernavaca,62220
+17007,Cuernavaca,62227
+17007,Cuernavaca,62229
+17007,Cuernavaca,62233
+17007,Cuernavaca,62239
+17007,Cuernavaca,62243
+17007,Cuernavaca,62247
+17007,Cuernavaca,62249
+17007,Cuernavaca,62253
+17007,Cuernavaca,62269
+17007,Cuernavaca,62280
+17007,Cuernavaca,62284
+17007,Cuernavaca,62290
+17007,Cuernavaca,62294
+17007,Cuernavaca,62296
+17007,Cuernavaca,62303
+17007,Cuernavaca,62305
+17007,Cuernavaca,62309
+17007,Cuernavaca,62323
+17007,Cuernavaca,62325
+17007,Cuernavaca,62328
+17007,Cuernavaca,62330
+17007,Cuernavaca,62335
+17007,Cuernavaca,62343
+17007,Cuernavaca,62350
+17007,Cuernavaca,62363
+17007,Cuernavaca,62373
+17007,Cuernavaca,62375
+17007,Cuernavaca,62380
+17007,Cuernavaca,62384
+17007,Cuernavaca,62387
+17007,Cuernavaca,62389
+17007,Cuernavaca,62398
+17007,Cuernavaca,62400
+17007,Cuernavaca,62410
+17007,Cuernavaca,62428
+17007,Cuernavaca,62433
+17007,Cuernavaca,62445
+17007,Cuernavaca,62447
+17007,Cuernavaca,62450
+17007,Cuernavaca,62466
+17007,Cuernavaca,62470
+17007,Cuernavaca,62474
+17007,Cuernavaca,62480
+17007,Cuernavaca,62493
+17007,Cuernavaca,62496
+17007,Cuernavaca,62498
+17007,Cuernavaca,62507
+17007,Cuernavaca,62000
+17007,Cuernavaca,62009
+17007,Cuernavaca,62017
+17007,Cuernavaca,62019
+17007,Cuernavaca,62028
+17007,Cuernavaca,62030
+17007,Cuernavaca,62038
+17007,Cuernavaca,62040
+17007,Cuernavaca,62057
+17007,Cuernavaca,62060
+17007,Cuernavaca,62076
+17007,Cuernavaca,62083
+17007,Cuernavaca,62100
+17007,Cuernavaca,62115
+17007,Cuernavaca,62117
+17007,Cuernavaca,62123
+17007,Cuernavaca,62133
+17007,Cuernavaca,62137
+17007,Cuernavaca,62140
+17007,Cuernavaca,62144
+17007,Cuernavaca,62150
+17007,Cuernavaca,62154
+17007,Cuernavaca,62157
+17007,Cuernavaca,62160
+17007,Cuernavaca,62164
+17007,Cuernavaca,62166
+17007,Cuernavaca,62173
+17007,Cuernavaca,62179
+17007,Cuernavaca,62190
+17007,Cuernavaca,62200
+17007,Cuernavaca,62204
+17007,Cuernavaca,62209
+17007,Cuernavaca,62214
+17007,Cuernavaca,62217
+17007,Cuernavaca,62219
+17007,Cuernavaca,62226
+17007,Cuernavaca,62228
+17007,Cuernavaca,62230
+17007,Cuernavaca,62237
+17007,Cuernavaca,62240
+17007,Cuernavaca,62245
+17007,Cuernavaca,62248
+17007,Cuernavaca,62250
+17007,Cuernavaca,62260
+17007,Cuernavaca,62270
+17007,Cuernavaca,62283
+17007,Cuernavaca,62285
+17007,Cuernavaca,62293
+17007,Cuernavaca,62295
+17007,Cuernavaca,62300
+17007,Cuernavaca,62304
+17007,Cuernavaca,62306
+17007,Cuernavaca,62320
+17007,Cuernavaca,62324
+17007,Cuernavaca,62326
+17007,Cuernavaca,62329
+17007,Cuernavaca,62334
+17007,Cuernavaca,62340
+17007,Cuernavaca,62345
+17007,Cuernavaca,62360
+17007,Cuernavaca,62370
+17007,Cuernavaca,62374
+17007,Cuernavaca,62376
+17007,Cuernavaca,62382
+17007,Cuernavaca,62385
+17007,Cuernavaca,62388
+17007,Cuernavaca,62390
+17007,Cuernavaca,62399
+17007,Cuernavaca,62409
+17007,Cuernavaca,62420
+17007,Cuernavaca,62430
+17007,Cuernavaca,62440
+17007,Cuernavaca,62446
+17007,Cuernavaca,62448
+17007,Cuernavaca,62460
+17007,Cuernavaca,62469
+17007,Cuernavaca,62473
+17007,Cuernavaca,62475
+17007,Cuernavaca,62490
+17007,Cuernavaca,62494
+17007,Cuernavaca,62497
+17007,Cuernavaca,62499
+17007,Cuernavaca,62508
+17009,Huitzilac,62514
+17009,Huitzilac,62517
+17009,Huitzilac,62510
+17009,Huitzilac,62515
+17011,Jiutepec,62553
+17011,Jiutepec,62555
+17011,Jiutepec,62560
+17011,Jiutepec,62564
+17011,Jiutepec,62566
+17011,Jiutepec,62573
+17011,Jiutepec,62575
+17011,Jiutepec,62577
+17011,Jiutepec,62550
+17011,Jiutepec,62554
+17011,Jiutepec,62556
+17011,Jiutepec,62563
+17011,Jiutepec,62565
+17011,Jiutepec,62570
+17011,Jiutepec,62574
+17011,Jiutepec,62576
+17011,Jiutepec,62578
+17013,Jonacatepec,62933
+17013,Jonacatepec,62935
+17013,Jonacatepec,62937
+17013,Jonacatepec,62943
+17013,Jonacatepec,62930
+17013,Jonacatepec,62934
+17013,Jonacatepec,62936
+17013,Jonacatepec,62940
+17013,Jonacatepec,62944
+17015,Miacatlán,62605
+17015,Miacatlán,62607
+17015,Miacatlán,62600
+17015,Miacatlán,62606
+17015,Miacatlán,62608
+17017,Puente de Ixtla,62662
+17017,Puente de Ixtla,62664
+17017,Puente de Ixtla,62666
+17017,Puente de Ixtla,62670
+17017,Puente de Ixtla,62675
+17017,Puente de Ixtla,62680
+17017,Puente de Ixtla,62684
+17017,Puente de Ixtla,62686
+17017,Puente de Ixtla,62693
+17017,Puente de Ixtla,62695
+17017,Puente de Ixtla,62697
+17017,Puente de Ixtla,62660
+17017,Puente de Ixtla,62663
+17017,Puente de Ixtla,62665
+17017,Puente de Ixtla,62668
+17017,Puente de Ixtla,62674
+17017,Puente de Ixtla,62676
+17017,Puente de Ixtla,62683
+17017,Puente de Ixtla,62685
+17017,Puente de Ixtla,62690
+17017,Puente de Ixtla,62694
+17017,Puente de Ixtla,62696
+17033,Temoac,62873
+17033,Temoac,62885
+17033,Temoac,62870
+17033,Temoac,62880
+17033,Temoac,62887
+17020,Tepoztlán,62523
+17020,Tepoztlán,62525
+17020,Tepoztlán,62527
+17020,Tepoztlán,62529
+17020,Tepoztlán,62520
+17020,Tepoztlán,62524
+17020,Tepoztlán,62526
+17020,Tepoztlán,62528
+17022,Tetela del Volcán,62802
+17022,Tetela del Volcán,62804
+17022,Tetela del Volcán,62810
+17022,Tetela del Volcán,62813
+17022,Tetela del Volcán,62815
+17022,Tetela del Volcán,62800
+17022,Tetela del Volcán,62803
+17022,Tetela del Volcán,62805
+17022,Tetela del Volcán,62812
+17022,Tetela del Volcán,62814
+,Tlaltizapán de Zapata,62772
+,Tlaltizapán de Zapata,62774
+,Tlaltizapán de Zapata,62776
+,Tlaltizapán de Zapata,62778
+,Tlaltizapán de Zapata,62770
+,Tlaltizapán de Zapata,62773
+,Tlaltizapán de Zapata,62775
+,Tlaltizapán de Zapata,62777
+17026,Tlayacapan,62543
+17026,Tlayacapan,62545
+17026,Tlayacapan,62547
+17026,Tlayacapan,62540
+17026,Tlayacapan,62544
+17026,Tlayacapan,62546
+17028,Xochitepec,62793
+17028,Xochitepec,62796
+17028,Xochitepec,62790
+17028,Xochitepec,62795
+17030,Yecapixtla,62823
+17030,Yecapixtla,62825
+17030,Yecapixtla,62827
+17030,Yecapixtla,62820
+17030,Yecapixtla,62824
+17030,Yecapixtla,62826
+17030,Yecapixtla,62828
+17032,Zacualpan,62893
+17032,Zacualpan,62895
+17032,Zacualpan,62897
+17032,Zacualpan,62890
+17032,Zacualpan,62894
+17032,Zacualpan,62896

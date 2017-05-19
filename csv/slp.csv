@@ -1,0 +1,983 @@
+CVEGEO,Nombre,CP
+24002,Alaquines,79363
+24002,Alaquines,79365
+24002,Alaquines,79370
+24002,Alaquines,79374
+24002,Alaquines,79376
+24002,Alaquines,79360
+24002,Alaquines,79364
+24002,Alaquines,79366
+24002,Alaquines,79373
+24002,Alaquines,79375
+24002,Alaquines,79377
+24004,Armadillo de los Infante,78983
+24004,Armadillo de los Infante,78985
+24004,Armadillo de los Infante,78987
+24004,Armadillo de los Infante,78993
+24004,Armadillo de los Infante,78995
+24004,Armadillo de los Infante,78997
+24004,Armadillo de los Infante,78980
+24004,Armadillo de los Infante,78984
+24004,Armadillo de los Infante,78986
+24004,Armadillo de los Infante,78990
+24004,Armadillo de los Infante,78994
+24004,Armadillo de los Infante,78996
+24005,Cárdenas,79382
+24005,Cárdenas,79384
+24005,Cárdenas,79386
+24005,Cárdenas,79390
+24005,Cárdenas,79394
+24005,Cárdenas,79396
+24005,Cárdenas,79380
+24005,Cárdenas,79383
+24005,Cárdenas,79385
+24005,Cárdenas,79387
+24005,Cárdenas,79393
+24005,Cárdenas,79395
+24005,Cárdenas,79397
+24007,Cedral,78523
+24007,Cedral,78525
+24007,Cedral,78527
+24007,Cedral,78533
+24007,Cedral,78535
+24007,Cedral,78537
+24007,Cedral,78520
+24007,Cedral,78524
+24007,Cedral,78526
+24007,Cedral,78530
+24007,Cedral,78534
+24007,Cedral,78536
+24009,Cerro de San Pedro,78443
+24009,Cerro de San Pedro,78445
+24009,Cerro de San Pedro,78447
+24009,Cerro de San Pedro,78440
+24009,Cerro de San Pedro,78444
+24009,Cerro de San Pedro,78446
+24009,Cerro de San Pedro,78448
+24010,Ciudad del Maíz,79323
+24010,Ciudad del Maíz,79325
+24010,Ciudad del Maíz,79327
+24010,Ciudad del Maíz,79333
+24010,Ciudad del Maíz,79335
+24010,Ciudad del Maíz,79337
+24010,Ciudad del Maíz,79343
+24010,Ciudad del Maíz,79345
+24010,Ciudad del Maíz,79347
+24010,Ciudad del Maíz,79353
+24010,Ciudad del Maíz,79355
+24010,Ciudad del Maíz,79357
+24010,Ciudad del Maíz,79320
+24010,Ciudad del Maíz,79324
+24010,Ciudad del Maíz,79326
+24010,Ciudad del Maíz,79330
+24010,Ciudad del Maíz,79334
+24010,Ciudad del Maíz,79336
+24010,Ciudad del Maíz,79340
+24010,Ciudad del Maíz,79344
+24010,Ciudad del Maíz,79346
+24010,Ciudad del Maíz,79350
+24010,Ciudad del Maíz,79354
+24010,Ciudad del Maíz,79356
+24013,Ciudad Valles,79010
+24013,Ciudad Valles,79020
+24013,Ciudad Valles,79025
+24013,Ciudad Valles,79028
+24013,Ciudad Valles,79033
+24013,Ciudad Valles,79035
+24013,Ciudad Valles,79040
+24013,Ciudad Valles,79050
+24013,Ciudad Valles,79059
+24013,Ciudad Valles,79063
+24013,Ciudad Valles,79068
+24013,Ciudad Valles,79080
+24013,Ciudad Valles,79083
+24013,Ciudad Valles,79085
+24013,Ciudad Valles,79090
+24013,Ciudad Valles,79093
+24013,Ciudad Valles,79095
+24013,Ciudad Valles,79098
+24013,Ciudad Valles,79233
+24013,Ciudad Valles,79235
+24013,Ciudad Valles,79237
+24013,Ciudad Valles,79243
+24013,Ciudad Valles,79245
+24013,Ciudad Valles,79247
+24013,Ciudad Valles,79252
+24013,Ciudad Valles,79254
+24013,Ciudad Valles,79256
+24013,Ciudad Valles,79260
+24013,Ciudad Valles,79264
+24013,Ciudad Valles,79266
+24013,Ciudad Valles,79270
+24013,Ciudad Valles,79274
+24013,Ciudad Valles,79276
+24013,Ciudad Valles,79280
+24013,Ciudad Valles,79284
+24013,Ciudad Valles,79286
+24013,Ciudad Valles,79000
+24013,Ciudad Valles,79019
+24013,Ciudad Valles,79023
+24013,Ciudad Valles,79027
+24013,Ciudad Valles,79030
+24013,Ciudad Valles,79034
+24013,Ciudad Valles,79036
+24013,Ciudad Valles,79043
+24013,Ciudad Valles,79058
+24013,Ciudad Valles,79060
+24013,Ciudad Valles,79064
+24013,Ciudad Valles,79070
+24013,Ciudad Valles,79082
+24013,Ciudad Valles,79084
+24013,Ciudad Valles,79088
+24013,Ciudad Valles,79092
+24013,Ciudad Valles,79094
+24013,Ciudad Valles,79097
+24013,Ciudad Valles,79230
+24013,Ciudad Valles,79234
+24013,Ciudad Valles,79236
+24013,Ciudad Valles,79240
+24013,Ciudad Valles,79244
+24013,Ciudad Valles,79246
+24013,Ciudad Valles,79250
+24013,Ciudad Valles,79253
+24013,Ciudad Valles,79255
+24013,Ciudad Valles,79257
+24013,Ciudad Valles,79263
+24013,Ciudad Valles,79265
+24013,Ciudad Valles,79267
+24013,Ciudad Valles,79273
+24013,Ciudad Valles,79275
+24013,Ciudad Valles,79277
+24013,Ciudad Valles,79283
+24013,Ciudad Valles,79285
+24013,Ciudad Valles,79287
+24016,Ebano,79110
+24016,Ebano,79122
+24016,Ebano,79139
+24016,Ebano,79142
+24016,Ebano,79150
+24016,Ebano,79153
+24016,Ebano,79161
+24016,Ebano,79170
+24016,Ebano,79182
+24016,Ebano,79190
+24016,Ebano,79292
+24016,Ebano,79294
+24016,Ebano,79296
+24016,Ebano,79100
+24016,Ebano,79120
+24016,Ebano,79130
+24016,Ebano,79140
+24016,Ebano,79143
+24016,Ebano,79152
+24016,Ebano,79160
+24016,Ebano,79162
+24016,Ebano,79180
+24016,Ebano,79183
+24016,Ebano,79290
+24016,Ebano,79293
+24016,Ebano,79295
+24016,Ebano,79297
+24017,Guadalcázar,78873
+24017,Guadalcázar,78883
+24017,Guadalcázar,78885
+24017,Guadalcázar,78887
+24017,Guadalcázar,78893
+24017,Guadalcázar,78895
+24017,Guadalcázar,78897
+24017,Guadalcázar,78870
+24017,Guadalcázar,78880
+24017,Guadalcázar,78884
+24017,Guadalcázar,78886
+24017,Guadalcázar,78890
+24017,Guadalcázar,78894
+24017,Guadalcázar,78896
+24019,Lagunillas,79781
+24019,Lagunillas,79783
+24019,Lagunillas,79785
+24019,Lagunillas,79788
+24019,Lagunillas,79780
+24019,Lagunillas,79782
+24019,Lagunillas,79784
+24019,Lagunillas,79786
+24057,Matlapa,79973
+24057,Matlapa,79975
+24057,Matlapa,79977
+24057,Matlapa,79970
+24057,Matlapa,79974
+24057,Matlapa,79976
+24057,Matlapa,79978
+24022,Moctezuma,78902
+24022,Moctezuma,78904
+24022,Moctezuma,78906
+24022,Moctezuma,78909
+24022,Moctezuma,78911
+24022,Moctezuma,78918
+24022,Moctezuma,78900
+24022,Moctezuma,78903
+24022,Moctezuma,78905
+24022,Moctezuma,78908
+24022,Moctezuma,78910
+24022,Moctezuma,78914
+24022,Moctezuma,78919
+24024,Rioverde,79603
+24024,Rioverde,79605
+24024,Rioverde,79607
+24024,Rioverde,79613
+24024,Rioverde,79615
+24024,Rioverde,79617
+24024,Rioverde,79619
+24024,Rioverde,79623
+24024,Rioverde,79625
+24024,Rioverde,79630
+24024,Rioverde,79634
+24024,Rioverde,79636
+24024,Rioverde,79640
+24024,Rioverde,79644
+24024,Rioverde,79646
+24024,Rioverde,79600
+24024,Rioverde,79604
+24024,Rioverde,79606
+24024,Rioverde,79610
+24024,Rioverde,79614
+24024,Rioverde,79616
+24024,Rioverde,79618
+24024,Rioverde,79620
+24024,Rioverde,79624
+24024,Rioverde,79626
+24024,Rioverde,79633
+24024,Rioverde,79635
+24024,Rioverde,79637
+24024,Rioverde,79643
+24024,Rioverde,79645
+24024,Rioverde,79647
+24026,San Antonio,79833
+24026,San Antonio,79835
+24026,San Antonio,79837
+24026,San Antonio,79830
+24026,San Antonio,79834
+24026,San Antonio,79836
+24028,San Luis Potosí,78008
+24028,San Luis Potosí,78037
+24028,San Luis Potosí,78040
+24028,San Luis Potosí,78049
+24028,San Luis Potosí,78103
+24028,San Luis Potosí,78107
+24028,San Luis Potosí,78110
+24028,San Luis Potosí,78116
+24028,San Luis Potosí,78120
+24028,San Luis Potosí,78133
+24028,San Luis Potosí,78136
+24028,San Luis Potosí,78140
+24028,San Luis Potosí,78144
+24028,San Luis Potosí,78146
+24028,San Luis Potosí,78148
+24028,San Luis Potosí,78153
+24028,San Luis Potosí,78165
+24028,San Luis Potosí,78173
+24028,San Luis Potosí,78175
+24028,San Luis Potosí,78177
+24028,San Luis Potosí,78180
+24028,San Luis Potosí,78200
+24028,San Luis Potosí,78210
+24028,San Luis Potosí,78214
+24028,San Luis Potosí,78216
+24028,San Luis Potosí,78218
+24028,San Luis Potosí,78220
+24028,San Luis Potosí,78233
+24028,San Luis Potosí,78235
+24028,San Luis Potosí,78238
+24028,San Luis Potosí,78240
+24028,San Luis Potosí,78258
+24028,San Luis Potosí,78260
+24028,San Luis Potosí,78269
+24028,San Luis Potosí,78280
+24028,San Luis Potosí,78294
+24028,San Luis Potosí,78298
+24028,San Luis Potosí,78306
+24028,San Luis Potosí,78308
+24028,San Luis Potosí,78310
+24028,San Luis Potosí,78319
+24028,San Luis Potosí,78328
+24028,San Luis Potosí,78338
+24028,San Luis Potosí,78340
+24028,San Luis Potosí,78348
+24028,San Luis Potosí,78350
+24028,San Luis Potosí,78357
+24028,San Luis Potosí,78359
+24028,San Luis Potosí,78363
+24028,San Luis Potosí,78365
+24028,San Luis Potosí,78367
+24028,San Luis Potosí,78369
+24028,San Luis Potosí,78377
+24028,San Luis Potosí,78379
+24028,San Luis Potosí,78384
+24028,San Luis Potosí,78387
+24028,San Luis Potosí,78389
+24028,San Luis Potosí,78391
+24028,San Luis Potosí,78395
+24028,San Luis Potosí,78397
+24028,San Luis Potosí,78399
+24028,San Luis Potosí,78403
+24028,San Luis Potosí,78405
+24028,San Luis Potosí,78407
+24028,San Luis Potosí,78413
+24028,San Luis Potosí,78415
+24028,San Luis Potosí,78418
+24028,San Luis Potosí,78420
+24028,San Luis Potosí,78423
+24028,San Luis Potosí,78425
+24028,San Luis Potosí,78427
+24028,San Luis Potosí,78000
+24028,San Luis Potosí,78009
+24028,San Luis Potosí,78038
+24028,San Luis Potosí,78048
+24028,San Luis Potosí,78100
+24028,San Luis Potosí,78106
+24028,San Luis Potosí,78109
+24028,San Luis Potosí,78115
+24028,San Luis Potosí,78117
+24028,San Luis Potosí,78130
+24028,San Luis Potosí,78135
+24028,San Luis Potosí,78137
+24028,San Luis Potosí,78143
+24028,San Luis Potosí,78145
+24028,San Luis Potosí,78147
+24028,San Luis Potosí,78150
+24028,San Luis Potosí,78154
+24028,San Luis Potosí,78170
+24028,San Luis Potosí,78174
+24028,San Luis Potosí,78176
+24028,San Luis Potosí,78178
+24028,San Luis Potosí,78183
+24028,San Luis Potosí,78209
+24028,San Luis Potosí,78213
+24028,San Luis Potosí,78215
+24028,San Luis Potosí,78217
+24028,San Luis Potosí,78219
+24028,San Luis Potosí,78230
+24028,San Luis Potosí,78234
+24028,San Luis Potosí,78236
+24028,San Luis Potosí,78239
+24028,San Luis Potosí,78250
+24028,San Luis Potosí,78259
+24028,San Luis Potosí,78268
+24028,San Luis Potosí,78270
+24028,San Luis Potosí,78290
+24028,San Luis Potosí,78295
+24028,San Luis Potosí,78300
+24028,San Luis Potosí,78307
+24028,San Luis Potosí,78309
+24028,San Luis Potosí,78318
+24028,San Luis Potosí,78320
+24028,San Luis Potosí,78330
+24028,San Luis Potosí,78339
+24028,San Luis Potosí,78342
+24028,San Luis Potosí,78349
+24028,San Luis Potosí,78356
+24028,San Luis Potosí,78358
+24028,San Luis Potosí,78360
+24028,San Luis Potosí,78364
+24028,San Luis Potosí,78366
+24028,San Luis Potosí,78368
+24028,San Luis Potosí,78370
+24028,San Luis Potosí,78378
+24028,San Luis Potosí,78380
+24028,San Luis Potosí,78385
+24028,San Luis Potosí,78388
+24028,San Luis Potosí,78390
+24028,San Luis Potosí,78394
+24028,San Luis Potosí,78396
+24028,San Luis Potosí,78398
+24028,San Luis Potosí,78400
+24028,San Luis Potosí,78404
+24028,San Luis Potosí,78406
+24028,San Luis Potosí,78410
+24028,San Luis Potosí,78414
+24028,San Luis Potosí,78416
+24028,San Luis Potosí,78419
+24028,San Luis Potosí,78421
+24028,San Luis Potosí,78424
+24028,San Luis Potosí,78426
+24030,San Nicolás Tolentino,79482
+24030,San Nicolás Tolentino,79484
+24030,San Nicolás Tolentino,79486
+24030,San Nicolás Tolentino,79488
+24030,San Nicolás Tolentino,79490
+24030,San Nicolás Tolentino,79493
+24030,San Nicolás Tolentino,79480
+24030,San Nicolás Tolentino,79483
+24030,San Nicolás Tolentino,79485
+24030,San Nicolás Tolentino,79487
+24030,San Nicolás Tolentino,79489
+24030,San Nicolás Tolentino,79491
+24032,Santa María del Río,79562
+24032,Santa María del Río,79564
+24032,Santa María del Río,79566
+24032,Santa María del Río,79569
+24032,Santa María del Río,79573
+24032,Santa María del Río,79575
+24032,Santa María del Río,79580
+24032,Santa María del Río,79583
+24032,Santa María del Río,79585
+24032,Santa María del Río,79588
+24032,Santa María del Río,79560
+24032,Santa María del Río,79563
+24032,Santa María del Río,79565
+24032,Santa María del Río,79567
+24032,Santa María del Río,79570
+24032,Santa María del Río,79574
+24032,Santa María del Río,79576
+24032,Santa María del Río,79581
+24032,Santa María del Río,79584
+24032,Santa María del Río,79586
+24032,Santa María del Río,79589
+24034,San Vicente Tancuayalab,79821
+24034,San Vicente Tancuayalab,79823
+24034,San Vicente Tancuayalab,79826
+24034,San Vicente Tancuayalab,79820
+24034,San Vicente Tancuayalab,79822
+24034,San Vicente Tancuayalab,79825
+24036,Tamasopo,79703
+24036,Tamasopo,79705
+24036,Tamasopo,79708
+24036,Tamasopo,79710
+24036,Tamasopo,79713
+24036,Tamasopo,79716
+24036,Tamasopo,79720
+24036,Tamasopo,79722
+24036,Tamasopo,79728
+24036,Tamasopo,79730
+24036,Tamasopo,79732
+24036,Tamasopo,79702
+24036,Tamasopo,79704
+24036,Tamasopo,79707
+24036,Tamasopo,79709
+24036,Tamasopo,79712
+24036,Tamasopo,79714
+24036,Tamasopo,79717
+24036,Tamasopo,79721
+24036,Tamasopo,79725
+24036,Tamasopo,79729
+24036,Tamasopo,79731
+24036,Tamasopo,79733
+24038,Tampacán,79941
+24038,Tampacán,79943
+24038,Tampacán,79945
+24038,Tampacán,79948
+24038,Tampacán,79940
+24038,Tampacán,79942
+24038,Tampacán,79944
+24038,Tampacán,79946
+24040,Tamuín,79202
+24040,Tamuín,79204
+24040,Tamuín,79206
+24040,Tamuín,79208
+24040,Tamuín,79212
+24040,Tamuín,79214
+24040,Tamuín,79216
+24040,Tamuín,79218
+24040,Tamuín,79220
+24040,Tamuín,79225
+24040,Tamuín,79227
+24040,Tamuín,79200
+24040,Tamuín,79203
+24040,Tamuín,79205
+24040,Tamuín,79207
+24040,Tamuín,79210
+24040,Tamuín,79213
+24040,Tamuín,79215
+24040,Tamuín,79217
+24040,Tamuín,79219
+24040,Tamuín,79224
+24040,Tamuín,79226
+24040,Tamuín,79228
+24041,Tanlajás,79811
+24041,Tanlajás,79813
+24041,Tanlajás,79815
+24041,Tanlajás,79810
+24041,Tanlajás,79812
+24041,Tanlajás,79814
+24041,Tanlajás,79819
+24043,Tierra Nueva,79592
+24043,Tierra Nueva,79594
+24043,Tierra Nueva,79590
+24043,Tierra Nueva,79593
+24043,Tierra Nueva,79595
+24045,Venado,78923
+24045,Venado,78925
+24045,Venado,78927
+24045,Venado,78933
+24045,Venado,78935
+24045,Venado,78937
+24045,Venado,78920
+24045,Venado,78924
+24045,Venado,78926
+24045,Venado,78930
+24045,Venado,78934
+24045,Venado,78936
+24046,Villa de Arriaga,78493
+24046,Villa de Arriaga,78495
+24046,Villa de Arriaga,78497
+24046,Villa de Arriaga,78490
+24046,Villa de Arriaga,78494
+24046,Villa de Arriaga,78496
+24046,Villa de Arriaga,78498
+24048,Villa de la Paz,78833
+24048,Villa de la Paz,78835
+24048,Villa de la Paz,78837
+24048,Villa de la Paz,78830
+24048,Villa de la Paz,78834
+24048,Villa de la Paz,78836
+24050,Villa de Reyes,79502
+24050,Villa de Reyes,79505
+24050,Villa de Reyes,79507
+24050,Villa de Reyes,79509
+24050,Villa de Reyes,79511
+24050,Villa de Reyes,79513
+24050,Villa de Reyes,79521
+24050,Villa de Reyes,79525
+24050,Villa de Reyes,79530
+24050,Villa de Reyes,79533
+24050,Villa de Reyes,79500
+24050,Villa de Reyes,79503
+24050,Villa de Reyes,79506
+24050,Villa de Reyes,79508
+24050,Villa de Reyes,79510
+24050,Villa de Reyes,79512
+24050,Villa de Reyes,79520
+24050,Villa de Reyes,79524
+24050,Villa de Reyes,79526
+24050,Villa de Reyes,79532
+24052,Villa Juárez,79460
+24052,Villa Juárez,79467
+24052,Villa Juárez,79471
+24052,Villa Juárez,79450
+24052,Villa Juárez,79466
+24052,Villa Juárez,79470
+24055,Zaragoza,79543
+24055,Zaragoza,79545
+24055,Zaragoza,79547
+24055,Zaragoza,79553
+24055,Zaragoza,79555
+24055,Zaragoza,79557
+24055,Zaragoza,79540
+24055,Zaragoza,79544
+24055,Zaragoza,79546
+24055,Zaragoza,79550
+24055,Zaragoza,79554
+24055,Zaragoza,79556
+24001,Ahualulco,78453
+24001,Ahualulco,78455
+24001,Ahualulco,78457
+24001,Ahualulco,78450
+24001,Ahualulco,78454
+24001,Ahualulco,78456
+24003,Aquismón,79764
+24003,Aquismón,79767
+24003,Aquismón,79773
+24003,Aquismón,79775
+24003,Aquismón,79777
+24003,Aquismón,79760
+24003,Aquismón,79766
+24003,Aquismón,79770
+24003,Aquismón,79774
+24003,Aquismón,79776
+24053,Axtla de Terrazas,79933
+24053,Axtla de Terrazas,79935
+24053,Axtla de Terrazas,79937
+24053,Axtla de Terrazas,79930
+24053,Axtla de Terrazas,79934
+24053,Axtla de Terrazas,79936
+24053,Axtla de Terrazas,79938
+24006,Catorce,78543
+24006,Catorce,78545
+24006,Catorce,78547
+24006,Catorce,78553
+24006,Catorce,78555
+24006,Catorce,78563
+24006,Catorce,78565
+24006,Catorce,78567
+24006,Catorce,78540
+24006,Catorce,78544
+24006,Catorce,78546
+24006,Catorce,78550
+24006,Catorce,78554
+24006,Catorce,78560
+24006,Catorce,78564
+24006,Catorce,78566
+24008,Cerritos,79401
+24008,Cerritos,79407
+24008,Cerritos,79410
+24008,Cerritos,79420
+24008,Cerritos,79427
+24008,Cerritos,79429
+24008,Cerritos,79431
+24008,Cerritos,79433
+24008,Cerritos,79435
+24008,Cerritos,79437
+24008,Cerritos,79442
+24008,Cerritos,79444
+24008,Cerritos,79446
+24008,Cerritos,79400
+24008,Cerritos,79406
+24008,Cerritos,79408
+24008,Cerritos,79413
+24008,Cerritos,79421
+24008,Cerritos,79428
+24008,Cerritos,79430
+24008,Cerritos,79432
+24008,Cerritos,79434
+24008,Cerritos,79436
+24008,Cerritos,79440
+24008,Cerritos,79443
+24008,Cerritos,79445
+24008,Cerritos,79447
+24015,Charcas,78573
+24015,Charcas,78575
+24015,Charcas,78577
+24015,Charcas,78580
+24015,Charcas,78584
+24015,Charcas,78586
+24015,Charcas,78590
+24015,Charcas,78594
+24015,Charcas,78596
+24015,Charcas,78570
+24015,Charcas,78574
+24015,Charcas,78576
+24015,Charcas,78578
+24015,Charcas,78583
+24015,Charcas,78585
+24015,Charcas,78587
+24015,Charcas,78593
+24015,Charcas,78595
+24015,Charcas,78597
+24011,Ciudad Fernández,79653
+24011,Ciudad Fernández,79655
+24011,Ciudad Fernández,79657
+24011,Ciudad Fernández,79663
+24011,Ciudad Fernández,79665
+24011,Ciudad Fernández,79673
+24011,Ciudad Fernández,79675
+24011,Ciudad Fernández,79677
+24011,Ciudad Fernández,79650
+24011,Ciudad Fernández,79654
+24011,Ciudad Fernández,79656
+24011,Ciudad Fernández,79660
+24011,Ciudad Fernández,79664
+24011,Ciudad Fernández,79670
+24011,Ciudad Fernández,79674
+24011,Ciudad Fernández,79676
+24014,Coxcatlán,79861
+24014,Coxcatlán,79864
+24014,Coxcatlán,79866
+24014,Coxcatlán,79870
+24014,Coxcatlán,79874
+24014,Coxcatlán,79878
+24014,Coxcatlán,79860
+24014,Coxcatlán,79863
+24014,Coxcatlán,79865
+24014,Coxcatlán,79867
+24014,Coxcatlán,79871
+24014,Coxcatlán,79876
+24014,Coxcatlán,79879
+24058,El Naranjo,79303
+24058,El Naranjo,79305
+24058,El Naranjo,79307
+24058,El Naranjo,79314
+24058,El Naranjo,79316
+24058,El Naranjo,79318
+24058,El Naranjo,79300
+24058,El Naranjo,79304
+24058,El Naranjo,79306
+24058,El Naranjo,79313
+24058,El Naranjo,79315
+24058,El Naranjo,79317
+24018,Huehuetlán,79884
+24018,Huehuetlán,79888
+24018,Huehuetlán,79890
+24018,Huehuetlán,79892
+24018,Huehuetlán,79895
+24018,Huehuetlán,79880
+24018,Huehuetlán,79887
+24018,Huehuetlán,79889
+24018,Huehuetlán,79891
+24018,Huehuetlán,79893
+24020,Matehuala,78710
+24020,Matehuala,78715
+24020,Matehuala,78717
+24020,Matehuala,78721
+24020,Matehuala,78723
+24020,Matehuala,78725
+24020,Matehuala,78727
+24020,Matehuala,78740
+24020,Matehuala,78745
+24020,Matehuala,78747
+24020,Matehuala,78759
+24020,Matehuala,78769
+24020,Matehuala,78779
+24020,Matehuala,78783
+24020,Matehuala,78785
+24020,Matehuala,78787
+24020,Matehuala,78789
+24020,Matehuala,78792
+24020,Matehuala,78796
+24020,Matehuala,78798
+24020,Matehuala,78800
+24020,Matehuala,78802
+24020,Matehuala,78804
+24020,Matehuala,78808
+24020,Matehuala,78811
+24020,Matehuala,78814
+24020,Matehuala,78816
+24020,Matehuala,78819
+24020,Matehuala,78821
+24020,Matehuala,78824
+24020,Matehuala,78700
+24020,Matehuala,78712
+24020,Matehuala,78716
+24020,Matehuala,78720
+24020,Matehuala,78722
+24020,Matehuala,78724
+24020,Matehuala,78726
+24020,Matehuala,78730
+24020,Matehuala,78743
+24020,Matehuala,78746
+24020,Matehuala,78750
+24020,Matehuala,78760
+24020,Matehuala,78770
+24020,Matehuala,78780
+24020,Matehuala,78784
+24020,Matehuala,78786
+24020,Matehuala,78788
+24020,Matehuala,78790
+24020,Matehuala,78793
+24020,Matehuala,78797
+24020,Matehuala,78799
+24020,Matehuala,78801
+24020,Matehuala,78803
+24020,Matehuala,78805
+24020,Matehuala,78810
+24020,Matehuala,78812
+24020,Matehuala,78815
+24020,Matehuala,78818
+24020,Matehuala,78820
+24020,Matehuala,78822
+24020,Matehuala,78827
+24021,Mexquitic de Carmona,78463
+24021,Mexquitic de Carmona,78465
+24021,Mexquitic de Carmona,78467
+24021,Mexquitic de Carmona,78473
+24021,Mexquitic de Carmona,78475
+24021,Mexquitic de Carmona,78477
+24021,Mexquitic de Carmona,78483
+24021,Mexquitic de Carmona,78485
+24021,Mexquitic de Carmona,78487
+24021,Mexquitic de Carmona,78460
+24021,Mexquitic de Carmona,78464
+24021,Mexquitic de Carmona,78466
+24021,Mexquitic de Carmona,78470
+24021,Mexquitic de Carmona,78474
+24021,Mexquitic de Carmona,78476
+24021,Mexquitic de Carmona,78480
+24021,Mexquitic de Carmona,78484
+24021,Mexquitic de Carmona,78486
+24023,Rayón,79745
+24023,Rayón,79747
+24023,Rayón,79750
+24023,Rayón,79753
+24023,Rayón,79755
+24023,Rayón,79740
+24023,Rayón,79746
+24023,Rayón,79748
+24023,Rayón,79751
+24023,Rayón,79754
+24025,Salinas,78601
+24025,Salinas,78603
+24025,Salinas,78605
+24025,Salinas,78610
+24025,Salinas,78620
+24025,Salinas,78623
+24025,Salinas,78625
+24025,Salinas,78600
+24025,Salinas,78602
+24025,Salinas,78604
+24025,Salinas,78609
+24025,Salinas,78612
+24025,Salinas,78622
+24025,Salinas,78624
+24025,Salinas,78626
+24027,San Ciro de Acosta,79683
+24027,San Ciro de Acosta,79685
+24027,San Ciro de Acosta,79687
+24027,San Ciro de Acosta,79693
+24027,San Ciro de Acosta,79695
+24027,San Ciro de Acosta,79697
+24027,San Ciro de Acosta,79680
+24027,San Ciro de Acosta,79684
+24027,San Ciro de Acosta,79686
+24027,San Ciro de Acosta,79690
+24027,San Ciro de Acosta,79694
+24027,San Ciro de Acosta,79696
+24029,San Martín Chalchicuautla,79952
+24029,San Martín Chalchicuautla,79954
+24029,San Martín Chalchicuautla,79956
+24029,San Martín Chalchicuautla,79958
+24029,San Martín Chalchicuautla,79950
+24029,San Martín Chalchicuautla,79953
+24029,San Martín Chalchicuautla,79955
+24029,San Martín Chalchicuautla,79957
+24031,Santa Catarina,79793
+24031,Santa Catarina,79795
+24031,Santa Catarina,79797
+24031,Santa Catarina,79790
+24031,Santa Catarina,79794
+24031,Santa Catarina,79796
+24031,Santa Catarina,79798
+24033,Santo Domingo,78633
+24033,Santo Domingo,78635
+24033,Santo Domingo,78637
+24033,Santo Domingo,78639
+24033,Santo Domingo,78643
+24033,Santo Domingo,78645
+24033,Santo Domingo,78647
+24033,Santo Domingo,78630
+24033,Santo Domingo,78634
+24033,Santo Domingo,78636
+24033,Santo Domingo,78638
+24033,Santo Domingo,78640
+24033,Santo Domingo,78644
+24033,Santo Domingo,78646
+24033,Santo Domingo,78649
+24035,Soledad de Graciano Sánchez,78432
+24035,Soledad de Graciano Sánchez,78434
+24035,Soledad de Graciano Sánchez,78436
+24035,Soledad de Graciano Sánchez,78438
+24035,Soledad de Graciano Sánchez,78430
+24035,Soledad de Graciano Sánchez,78433
+24035,Soledad de Graciano Sánchez,78435
+24035,Soledad de Graciano Sánchez,78437
+24035,Soledad de Graciano Sánchez,78439
+24037,Tamazunchale,79962
+24037,Tamazunchale,79964
+24037,Tamazunchale,79966
+24037,Tamazunchale,79980
+24037,Tamazunchale,79982
+24037,Tamazunchale,79985
+24037,Tamazunchale,79987
+24037,Tamazunchale,79991
+24037,Tamazunchale,79994
+24037,Tamazunchale,79996
+24037,Tamazunchale,79960
+24037,Tamazunchale,79963
+24037,Tamazunchale,79965
+24037,Tamazunchale,79967
+24037,Tamazunchale,79981
+24037,Tamazunchale,79983
+24037,Tamazunchale,79986
+24037,Tamazunchale,79990
+24037,Tamazunchale,79993
+24037,Tamazunchale,79995
+24037,Tamazunchale,79997
+24039,Tampamolón Corona,79851
+24039,Tampamolón Corona,79853
+24039,Tampamolón Corona,79856
+24039,Tampamolón Corona,79850
+24039,Tampamolón Corona,79852
+24039,Tampamolón Corona,79854
+24039,Tampamolón Corona,79859
+24012,Tancanhuitz,79803
+24012,Tancanhuitz,79805
+24012,Tancanhuitz,79807
+24012,Tancanhuitz,79800
+24012,Tancanhuitz,79804
+24012,Tancanhuitz,79806
+24042,Tanquián de Escobedo,79841
+24042,Tanquián de Escobedo,79843
+24042,Tanquián de Escobedo,79840
+24042,Tanquián de Escobedo,79842
+24042,Tanquián de Escobedo,79849
+24044,Vanegas,78502
+24044,Vanegas,78508
+24044,Vanegas,78511
+24044,Vanegas,78513
+24044,Vanegas,78500
+24044,Vanegas,78503
+24044,Vanegas,78510
+24044,Vanegas,78512
+24044,Vanegas,78514
+24056,Villa de Arista,78943
+24056,Villa de Arista,78945
+24056,Villa de Arista,78950
+24056,Villa de Arista,78954
+24056,Villa de Arista,78956
+24056,Villa de Arista,78958
+24056,Villa de Arista,78940
+24056,Villa de Arista,78944
+24056,Villa de Arista,78947
+24056,Villa de Arista,78953
+24056,Villa de Arista,78955
+24056,Villa de Arista,78957
+24047,Villa de Guadalupe,78841
+24047,Villa de Guadalupe,78844
+24047,Villa de Guadalupe,78850
+24047,Villa de Guadalupe,78853
+24047,Villa de Guadalupe,78858
+24047,Villa de Guadalupe,78860
+24047,Villa de Guadalupe,78863
+24047,Villa de Guadalupe,78866
+24047,Villa de Guadalupe,78840
+24047,Villa de Guadalupe,78843
+24047,Villa de Guadalupe,78847
+24047,Villa de Guadalupe,78851
+24047,Villa de Guadalupe,78855
+24047,Villa de Guadalupe,78859
+24047,Villa de Guadalupe,78862
+24047,Villa de Guadalupe,78864
+24047,Villa de Guadalupe,78868
+24049,Villa de Ramos,78665
+24049,Villa de Ramos,78671
+24049,Villa de Ramos,78681
+24049,Villa de Ramos,78689
+24049,Villa de Ramos,78695
+24049,Villa de Ramos,78697
+24049,Villa de Ramos,78660
+24049,Villa de Ramos,78670
+24049,Villa de Ramos,78680
+24049,Villa de Ramos,78685
+24049,Villa de Ramos,78690
+24049,Villa de Ramos,78696
+24051,Villa Hidalgo,78963
+24051,Villa Hidalgo,78965
+24051,Villa Hidalgo,78967
+24051,Villa Hidalgo,78970
+24051,Villa Hidalgo,78974
+24051,Villa Hidalgo,78976
+24051,Villa Hidalgo,78978
+24051,Villa Hidalgo,78960
+24051,Villa Hidalgo,78964
+24051,Villa Hidalgo,78966
+24051,Villa Hidalgo,78968
+24051,Villa Hidalgo,78973
+24051,Villa Hidalgo,78975
+24051,Villa Hidalgo,78977
+24051,Villa Hidalgo,78979
+24054,Xilitla,79901
+24054,Xilitla,79904
+24054,Xilitla,79906
+24054,Xilitla,79908
+24054,Xilitla,79913
+24054,Xilitla,79916
+24054,Xilitla,79920
+24054,Xilitla,79923
+24054,Xilitla,79927
+24054,Xilitla,79900
+24054,Xilitla,79903
+24054,Xilitla,79905
+24054,Xilitla,79907
+24054,Xilitla,79910
+24054,Xilitla,79915
+24054,Xilitla,79917
+24054,Xilitla,79922
+24054,Xilitla,79924
+24054,Xilitla,79928

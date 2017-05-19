@@ -1,0 +1,536 @@
+CVEGEO,Nombre,CP
+22003,Arroyo Seco,76401
+22003,Arroyo Seco,76404
+22003,Arroyo Seco,76410
+22003,Arroyo Seco,76413
+22003,Arroyo Seco,76417
+22003,Arroyo Seco,76421
+22003,Arroyo Seco,76425
+22003,Arroyo Seco,76427
+22003,Arroyo Seco,76436
+22003,Arroyo Seco,76400
+22003,Arroyo Seco,76402
+22003,Arroyo Seco,76405
+22003,Arroyo Seco,76411
+22003,Arroyo Seco,76414
+22003,Arroyo Seco,76420
+22003,Arroyo Seco,76424
+22003,Arroyo Seco,76426
+22003,Arroyo Seco,76434
+22003,Arroyo Seco,76440
+22005,Colón,76272
+22005,Colón,76274
+22005,Colón,76277
+22005,Colón,76279
+22005,Colón,76281
+22005,Colón,76283
+22005,Colón,76286
+22005,Colón,76289
+22005,Colón,76293
+22005,Colón,76295
+22005,Colón,76297
+22005,Colón,76299
+22005,Colón,76270
+22005,Colón,76273
+22005,Colón,76276
+22005,Colón,76278
+22005,Colón,76280
+22005,Colón,76282
+22005,Colón,76284
+22005,Colón,76288
+22005,Colón,76290
+22005,Colón,76294
+22005,Colón,76296
+22005,Colón,76298
+22011,El Marqués,76243
+22011,El Marqués,76245
+22011,El Marqués,76247
+22011,El Marqués,76249
+22011,El Marqués,76251
+22011,El Marqués,76253
+22011,El Marqués,76255
+22011,El Marqués,76257
+22011,El Marqués,76259
+22011,El Marqués,76261
+22011,El Marqués,76263
+22011,El Marqués,76265
+22011,El Marqués,76267
+22011,El Marqués,76269
+22011,El Marqués,76240
+22011,El Marqués,76244
+22011,El Marqués,76246
+22011,El Marqués,76248
+22011,El Marqués,76250
+22011,El Marqués,76252
+22011,El Marqués,76254
+22011,El Marqués,76256
+22011,El Marqués,76258
+22011,El Marqués,76260
+22011,El Marqués,76262
+22011,El Marqués,76264
+22011,El Marqués,76266
+22011,El Marqués,76268
+22008,Huimilpan,76951
+22008,Huimilpan,76953
+22008,Huimilpan,76956
+22008,Huimilpan,76958
+22008,Huimilpan,76964
+22008,Huimilpan,76970
+22008,Huimilpan,76974
+22008,Huimilpan,76976
+22008,Huimilpan,76981
+22008,Huimilpan,76984
+22008,Huimilpan,76990
+22008,Huimilpan,76993
+22008,Huimilpan,76995
+22008,Huimilpan,76998
+22008,Huimilpan,76950
+22008,Huimilpan,76952
+22008,Huimilpan,76955
+22008,Huimilpan,76957
+22008,Huimilpan,76963
+22008,Huimilpan,76965
+22008,Huimilpan,76973
+22008,Huimilpan,76975
+22008,Huimilpan,76980
+22008,Huimilpan,76983
+22008,Huimilpan,76985
+22008,Huimilpan,76992
+22008,Huimilpan,76994
+22008,Huimilpan,76997
+22010,Landa de Matamoros,76367
+22010,Landa de Matamoros,76370
+22010,Landa de Matamoros,76373
+22010,Landa de Matamoros,76379
+22010,Landa de Matamoros,76382
+22010,Landa de Matamoros,76384
+22010,Landa de Matamoros,76386
+22010,Landa de Matamoros,76390
+22010,Landa de Matamoros,76393
+22010,Landa de Matamoros,76395
+22010,Landa de Matamoros,76399
+22010,Landa de Matamoros,76360
+22010,Landa de Matamoros,76368
+22010,Landa de Matamoros,76372
+22010,Landa de Matamoros,76378
+22010,Landa de Matamoros,76380
+22010,Landa de Matamoros,76383
+22010,Landa de Matamoros,76385
+22010,Landa de Matamoros,76388
+22010,Landa de Matamoros,76392
+22010,Landa de Matamoros,76394
+22010,Landa de Matamoros,76396
+22013,Peñamiller,76453
+22013,Peñamiller,76460
+22013,Peñamiller,76464
+22013,Peñamiller,76470
+22013,Peñamiller,76474
+22013,Peñamiller,76477
+22013,Peñamiller,76483
+22013,Peñamiller,76485
+22013,Peñamiller,76489
+22013,Peñamiller,76492
+22013,Peñamiller,76494
+22013,Peñamiller,76496
+22013,Peñamiller,76450
+22013,Peñamiller,76454
+22013,Peñamiller,76463
+22013,Peñamiller,76465
+22013,Peñamiller,76471
+22013,Peñamiller,76476
+22013,Peñamiller,76478
+22013,Peñamiller,76484
+22013,Peñamiller,76486
+22013,Peñamiller,76490
+22013,Peñamiller,76493
+22013,Peñamiller,76495
+22013,Peñamiller,76499
+22014,Querétaro,76005
+22014,Querétaro,76008
+22014,Querétaro,76010
+22014,Querétaro,76020
+22014,Querétaro,76025
+22014,Querétaro,76027
+22014,Querétaro,76030
+22014,Querétaro,76037
+22014,Querétaro,76046
+22014,Querétaro,76048
+22014,Querétaro,76050
+22014,Querétaro,76058
+22014,Querétaro,76060
+22014,Querétaro,76067
+22014,Querétaro,76070
+22014,Querétaro,76078
+22014,Querétaro,76080
+22014,Querétaro,76086
+22014,Querétaro,76090
+22014,Querétaro,76099
+22014,Querétaro,76110
+22014,Querétaro,76114
+22014,Querétaro,76116
+22014,Querétaro,76118
+22014,Querétaro,76121
+22014,Querétaro,76127
+22014,Querétaro,76134
+22014,Querétaro,76136
+22014,Querétaro,76138
+22014,Querétaro,76140
+22014,Querétaro,76146
+22014,Querétaro,76148
+22014,Querétaro,76150
+22014,Querétaro,76155
+22014,Querétaro,76157
+22014,Querétaro,76159
+22014,Querétaro,76164
+22014,Querétaro,76166
+22014,Querétaro,76169
+22014,Querétaro,76175
+22014,Querétaro,76177
+22014,Querétaro,76179
+22014,Querétaro,76185
+22014,Querétaro,76190
+22014,Querétaro,76199
+22014,Querétaro,76211
+22014,Querétaro,76213
+22014,Querétaro,76215
+22014,Querétaro,76217
+22014,Querétaro,76219
+22014,Querétaro,76221
+22014,Querétaro,76224
+22014,Querétaro,76226
+22014,Querétaro,76228
+22014,Querétaro,76230
+22014,Querétaro,76234
+22014,Querétaro,76237
+22014,Querétaro,76000
+22014,Querétaro,76007
+22014,Querétaro,76009
+22014,Querétaro,76017
+22014,Querétaro,76024
+22014,Querétaro,76026
+22014,Querétaro,76028
+22014,Querétaro,76036
+22014,Querétaro,76040
+22014,Querétaro,76047
+22014,Querétaro,76049
+22014,Querétaro,76057
+22014,Querétaro,76059
+22014,Querétaro,76063
+22014,Querétaro,76069
+22014,Querétaro,76074
+22014,Querétaro,76079
+22014,Querétaro,76085
+22014,Querétaro,76087
+22014,Querétaro,76093
+22014,Querétaro,76100
+22014,Querétaro,76113
+22014,Querétaro,76115
+22014,Querétaro,76117
+22014,Querétaro,76120
+22014,Querétaro,76125
+22014,Querétaro,76130
+22014,Querétaro,76135
+22014,Querétaro,76137
+22014,Querétaro,76139
+22014,Querétaro,76144
+22014,Querétaro,76147
+22014,Querétaro,76149
+22014,Querétaro,76154
+22014,Querétaro,76156
+22014,Querétaro,76158
+22014,Querétaro,76160
+22014,Querétaro,76165
+22014,Querétaro,76168
+22014,Querétaro,76170
+22014,Querétaro,76176
+22014,Querétaro,76178
+22014,Querétaro,76180
+22014,Querétaro,76186
+22014,Querétaro,76197
+22014,Querétaro,76210
+22014,Querétaro,76212
+22014,Querétaro,76214
+22014,Querétaro,76216
+22014,Querétaro,76218
+22014,Querétaro,76220
+22014,Querétaro,76223
+22014,Querétaro,76225
+22014,Querétaro,76227
+22014,Querétaro,76229
+22014,Querétaro,76233
+22014,Querétaro,76235
+22014,Querétaro,76238
+22016,San Juan del Río,76803
+22016,San Juan del Río,76805
+22016,San Juan del Río,76807
+22016,San Juan del Río,76812
+22016,San Juan del Río,76814
+22016,San Juan del Río,76816
+22016,San Juan del Río,76821
+22016,San Juan del Río,76824
+22016,San Juan del Río,76827
+22016,San Juan del Río,76829
+22016,San Juan del Río,76833
+22016,San Juan del Río,76837
+22016,San Juan del Río,76840
+22016,San Juan del Río,76843
+22016,San Juan del Río,76845
+22016,San Juan del Río,76847
+22016,San Juan del Río,76849
+22016,San Juan del Río,76800
+22016,San Juan del Río,76804
+22016,San Juan del Río,76806
+22016,San Juan del Río,76810
+22016,San Juan del Río,76813
+22016,San Juan del Río,76815
+22016,San Juan del Río,76820
+22016,San Juan del Río,76823
+22016,San Juan del Río,76826
+22016,San Juan del Río,76828
+22016,San Juan del Río,76830
+22016,San Juan del Río,76835
+22016,San Juan del Río,76838
+22016,San Juan del Río,76842
+22016,San Juan del Río,76844
+22016,San Juan del Río,76846
+22016,San Juan del Río,76848
+22018,Tolimán,76605
+22018,Tolimán,76613
+22018,Tolimán,76615
+22018,Tolimán,76617
+22018,Tolimán,76620
+22018,Tolimán,76624
+22018,Tolimán,76627
+22018,Tolimán,76630
+22018,Tolimán,76632
+22018,Tolimán,76634
+22018,Tolimán,76637
+22018,Tolimán,76643
+22018,Tolimán,76646
+22018,Tolimán,76649
+22018,Tolimán,76600
+22018,Tolimán,76610
+22018,Tolimán,76614
+22018,Tolimán,76616
+22018,Tolimán,76618
+22018,Tolimán,76623
+22018,Tolimán,76626
+22018,Tolimán,76628
+22018,Tolimán,76631
+22018,Tolimán,76633
+22018,Tolimán,76636
+22018,Tolimán,76640
+22018,Tolimán,76644
+22018,Tolimán,76647
+22001,Amealco de Bonfil,76853
+22001,Amealco de Bonfil,76855
+22001,Amealco de Bonfil,76860
+22001,Amealco de Bonfil,76862
+22001,Amealco de Bonfil,76870
+22001,Amealco de Bonfil,76875
+22001,Amealco de Bonfil,76877
+22001,Amealco de Bonfil,76879
+22001,Amealco de Bonfil,76883
+22001,Amealco de Bonfil,76885
+22001,Amealco de Bonfil,76887
+22001,Amealco de Bonfil,76889
+22001,Amealco de Bonfil,76893
+22001,Amealco de Bonfil,76895
+22001,Amealco de Bonfil,76897
+22001,Amealco de Bonfil,76850
+22001,Amealco de Bonfil,76854
+22001,Amealco de Bonfil,76856
+22001,Amealco de Bonfil,76861
+22001,Amealco de Bonfil,76863
+22001,Amealco de Bonfil,76874
+22001,Amealco de Bonfil,76876
+22001,Amealco de Bonfil,76878
+22001,Amealco de Bonfil,76880
+22001,Amealco de Bonfil,76884
+22001,Amealco de Bonfil,76886
+22001,Amealco de Bonfil,76888
+22001,Amealco de Bonfil,76890
+22001,Amealco de Bonfil,76894
+22001,Amealco de Bonfil,76896
+22004,Cadereyta de Montes,76503
+22004,Cadereyta de Montes,76505
+22004,Cadereyta de Montes,76510
+22004,Cadereyta de Montes,76514
+22004,Cadereyta de Montes,76516
+22004,Cadereyta de Montes,76520
+22004,Cadereyta de Montes,76525
+22004,Cadereyta de Montes,76527
+22004,Cadereyta de Montes,76529
+22004,Cadereyta de Montes,76534
+22004,Cadereyta de Montes,76536
+22004,Cadereyta de Montes,76538
+22004,Cadereyta de Montes,76540
+22004,Cadereyta de Montes,76544
+22004,Cadereyta de Montes,76546
+22004,Cadereyta de Montes,76548
+22004,Cadereyta de Montes,76500
+22004,Cadereyta de Montes,76504
+22004,Cadereyta de Montes,76506
+22004,Cadereyta de Montes,76513
+22004,Cadereyta de Montes,76515
+22004,Cadereyta de Montes,76517
+22004,Cadereyta de Montes,76523
+22004,Cadereyta de Montes,76526
+22004,Cadereyta de Montes,76528
+22004,Cadereyta de Montes,76530
+22004,Cadereyta de Montes,76535
+22004,Cadereyta de Montes,76537
+22004,Cadereyta de Montes,76539
+22004,Cadereyta de Montes,76543
+22004,Cadereyta de Montes,76545
+22004,Cadereyta de Montes,76547
+22006,Corregidora,76902
+22006,Corregidora,76904
+22006,Corregidora,76906
+22006,Corregidora,76908
+22006,Corregidora,76912
+22006,Corregidora,76915
+22006,Corregidora,76922
+22006,Corregidora,76924
+22006,Corregidora,76926
+22006,Corregidora,76928
+22006,Corregidora,76900
+22006,Corregidora,76903
+22006,Corregidora,76905
+22006,Corregidora,76907
+22006,Corregidora,76910
+22006,Corregidora,76913
+22006,Corregidora,76920
+22006,Corregidora,76923
+22006,Corregidora,76925
+22006,Corregidora,76927
+22007,Ezequiel Montes,76651
+22007,Ezequiel Montes,76655
+22007,Ezequiel Montes,76657
+22007,Ezequiel Montes,76664
+22007,Ezequiel Montes,76666
+22007,Ezequiel Montes,76668
+22007,Ezequiel Montes,76674
+22007,Ezequiel Montes,76676
+22007,Ezequiel Montes,76680
+22007,Ezequiel Montes,76683
+22007,Ezequiel Montes,76686
+22007,Ezequiel Montes,76688
+22007,Ezequiel Montes,76693
+22007,Ezequiel Montes,76697
+22007,Ezequiel Montes,76650
+22007,Ezequiel Montes,76654
+22007,Ezequiel Montes,76656
+22007,Ezequiel Montes,76663
+22007,Ezequiel Montes,76665
+22007,Ezequiel Montes,76667
+22007,Ezequiel Montes,76670
+22007,Ezequiel Montes,76675
+22007,Ezequiel Montes,76677
+22007,Ezequiel Montes,76681
+22007,Ezequiel Montes,76685
+22007,Ezequiel Montes,76687
+22007,Ezequiel Montes,76690
+22007,Ezequiel Montes,76694
+22009,Jalpan de Serra,76342
+22009,Jalpan de Serra,76345
+22009,Jalpan de Serra,76347
+22009,Jalpan de Serra,76350
+22009,Jalpan de Serra,76354
+22009,Jalpan de Serra,76356
+22009,Jalpan de Serra,76358
+22009,Jalpan de Serra,76340
+22009,Jalpan de Serra,76344
+22009,Jalpan de Serra,76346
+22009,Jalpan de Serra,76348
+22009,Jalpan de Serra,76353
+22009,Jalpan de Serra,76355
+22009,Jalpan de Serra,76357
+22009,Jalpan de Serra,76359
+22012,Pedro Escobedo,76703
+22012,Pedro Escobedo,76705
+22012,Pedro Escobedo,76708
+22012,Pedro Escobedo,76710
+22012,Pedro Escobedo,76714
+22012,Pedro Escobedo,76720
+22012,Pedro Escobedo,76722
+22012,Pedro Escobedo,76724
+22012,Pedro Escobedo,76726
+22012,Pedro Escobedo,76740
+22012,Pedro Escobedo,76743
+22012,Pedro Escobedo,76700
+22012,Pedro Escobedo,76704
+22012,Pedro Escobedo,76707
+22012,Pedro Escobedo,76709
+22012,Pedro Escobedo,76713
+22012,Pedro Escobedo,76715
+22012,Pedro Escobedo,76721
+22012,Pedro Escobedo,76723
+22012,Pedro Escobedo,76725
+22012,Pedro Escobedo,76729
+22012,Pedro Escobedo,76741
+22012,Pedro Escobedo,76746
+22002,Pinal de Amoles,76303
+22002,Pinal de Amoles,76309
+22002,Pinal de Amoles,76313
+22002,Pinal de Amoles,76315
+22002,Pinal de Amoles,76317
+22002,Pinal de Amoles,76319
+22002,Pinal de Amoles,76321
+22002,Pinal de Amoles,76324
+22002,Pinal de Amoles,76326
+22002,Pinal de Amoles,76330
+22002,Pinal de Amoles,76334
+22002,Pinal de Amoles,76336
+22002,Pinal de Amoles,76300
+22002,Pinal de Amoles,76304
+22002,Pinal de Amoles,76310
+22002,Pinal de Amoles,76314
+22002,Pinal de Amoles,76316
+22002,Pinal de Amoles,76318
+22002,Pinal de Amoles,76320
+22002,Pinal de Amoles,76323
+22002,Pinal de Amoles,76325
+22002,Pinal de Amoles,76327
+22002,Pinal de Amoles,76333
+22002,Pinal de Amoles,76335
+22002,Pinal de Amoles,76337
+22015,San Joaquín,76553
+22015,San Joaquín,76555
+22015,San Joaquín,76557
+22015,San Joaquín,76560
+22015,San Joaquín,76564
+22015,San Joaquín,76566
+22015,San Joaquín,76568
+22015,San Joaquín,76573
+22015,San Joaquín,76575
+22015,San Joaquín,76550
+22015,San Joaquín,76554
+22015,San Joaquín,76556
+22015,San Joaquín,76558
+22015,San Joaquín,76563
+22015,San Joaquín,76565
+22015,San Joaquín,76567
+22015,San Joaquín,76570
+22015,San Joaquín,76574
+22017,Tequisquiapan,76753
+22017,Tequisquiapan,76755
+22017,Tequisquiapan,76757
+22017,Tequisquiapan,76773
+22017,Tequisquiapan,76775
+22017,Tequisquiapan,76780
+22017,Tequisquiapan,76783
+22017,Tequisquiapan,76786
+22017,Tequisquiapan,76791
+22017,Tequisquiapan,76796
+22017,Tequisquiapan,76750
+22017,Tequisquiapan,76754
+22017,Tequisquiapan,76756
+22017,Tequisquiapan,76770
+22017,Tequisquiapan,76774
+22017,Tequisquiapan,76776
+22017,Tequisquiapan,76781
+22017,Tequisquiapan,76785
+22017,Tequisquiapan,76790
+22017,Tequisquiapan,76795
+22017,Tequisquiapan,76799

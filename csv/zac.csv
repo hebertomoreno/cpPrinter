@@ -1,0 +1,556 @@
+CVEGEO,Nombre,CP
+32002,Apulco,99921
+32002,Apulco,99930
+32002,Apulco,99920
+32002,Apulco,99925
+32004,Benito Juárez,99781
+32004,Benito Juárez,99780
+32006,Cañitas de Felipe Pescador,98490
+32006,Cañitas de Felipe Pescador,98480
+32007,Concepción del Oro,98204
+32007,Concepción del Oro,98209
+32007,Concepción del Oro,98211
+32007,Concepción del Oro,98200
+32007,Concepción del Oro,98205
+32007,Concepción del Oro,98210
+32007,Concepción del Oro,98212
+32015,El Plateado de Joaquín Amaro,99592
+32015,El Plateado de Joaquín Amaro,99590
+32015,El Plateado de Joaquín Amaro,99593
+32010,Fresnillo,99010
+32010,Fresnillo,99013
+32010,Fresnillo,99020
+32010,Fresnillo,99033
+32010,Fresnillo,99036
+32010,Fresnillo,99040
+32010,Fresnillo,99050
+32010,Fresnillo,99055
+32010,Fresnillo,99060
+32010,Fresnillo,99080
+32010,Fresnillo,99089
+32010,Fresnillo,99094
+32010,Fresnillo,99099
+32010,Fresnillo,99154
+32010,Fresnillo,99159
+32010,Fresnillo,99170
+32010,Fresnillo,99179
+32010,Fresnillo,99182
+32010,Fresnillo,99189
+32010,Fresnillo,99198
+32010,Fresnillo,99000
+32010,Fresnillo,99011
+32010,Fresnillo,99014
+32010,Fresnillo,99030
+32010,Fresnillo,99034
+32010,Fresnillo,99039
+32010,Fresnillo,99049
+32010,Fresnillo,99054
+32010,Fresnillo,99056
+32010,Fresnillo,99070
+32010,Fresnillo,99084
+32010,Fresnillo,99090
+32010,Fresnillo,99095
+32010,Fresnillo,99150
+32010,Fresnillo,99158
+32010,Fresnillo,99160
+32010,Fresnillo,99178
+32010,Fresnillo,99180
+32010,Fresnillo,99188
+32010,Fresnillo,99190
+32010,Fresnillo,99199
+32013,General Enrique Estrada,98561
+32013,General Enrique Estrada,98560
+32016,General Pánfilo Natera,98740
+32016,General Pánfilo Natera,98760
+32016,General Pánfilo Natera,98730
+32016,General Pánfilo Natera,98750
+32018,Huanusco,99670
+32020,Jerez,99310
+32020,Jerez,99312
+32020,Jerez,99314
+32020,Jerez,99316
+32020,Jerez,99322
+32020,Jerez,99324
+32020,Jerez,99340
+32020,Jerez,99343
+32020,Jerez,99350
+32020,Jerez,99353
+32020,Jerez,99361
+32020,Jerez,99363
+32020,Jerez,99379
+32020,Jerez,99382
+32020,Jerez,99390
+32020,Jerez,99393
+32020,Jerez,99442
+32020,Jerez,99447
+32020,Jerez,99456
+32020,Jerez,99458
+32020,Jerez,99467
+32020,Jerez,99469
+32020,Jerez,99473
+32020,Jerez,99476
+32020,Jerez,99479
+32020,Jerez,99300
+32020,Jerez,99311
+32020,Jerez,99313
+32020,Jerez,99315
+32020,Jerez,99320
+32020,Jerez,99323
+32020,Jerez,99330
+32020,Jerez,99342
+32020,Jerez,99344
+32020,Jerez,99352
+32020,Jerez,99360
+32020,Jerez,99362
+32020,Jerez,99370
+32020,Jerez,99380
+32020,Jerez,99389
+32020,Jerez,99392
+32020,Jerez,99440
+32020,Jerez,99443
+32020,Jerez,99454
+32020,Jerez,99457
+32020,Jerez,99460
+32020,Jerez,99468
+32020,Jerez,99471
+32020,Jerez,99474
+32020,Jerez,99478
+32022,Juan Aldama,98303
+32022,Juan Aldama,98307
+32022,Juan Aldama,98311
+32022,Juan Aldama,98300
+32022,Juan Aldama,98304
+32022,Juan Aldama,98310
+32022,Juan Aldama,98320
+32024,Loreto,98804
+32024,Loreto,98807
+32024,Loreto,98815
+32024,Loreto,98820
+32024,Loreto,98825
+32024,Loreto,98830
+32024,Loreto,98833
+32024,Loreto,98835
+32024,Loreto,98837
+32024,Loreto,98839
+32024,Loreto,98800
+32024,Loreto,98805
+32024,Loreto,98810
+32024,Loreto,98817
+32024,Loreto,98824
+32024,Loreto,98827
+32024,Loreto,98832
+32024,Loreto,98834
+32024,Loreto,98836
+32024,Loreto,98838
+32026,Mazapil,98235
+32026,Mazapil,98237
+32026,Mazapil,98239
+32026,Mazapil,98241
+32026,Mazapil,98250
+32026,Mazapil,98254
+32026,Mazapil,98260
+32026,Mazapil,98262
+32026,Mazapil,98264
+32026,Mazapil,98267
+32026,Mazapil,98275
+32026,Mazapil,98278
+32026,Mazapil,98280
+32026,Mazapil,98285
+32026,Mazapil,98287
+32026,Mazapil,98230
+32026,Mazapil,98236
+32026,Mazapil,98238
+32026,Mazapil,98240
+32026,Mazapil,98245
+32026,Mazapil,98253
+32026,Mazapil,98256
+32026,Mazapil,98261
+32026,Mazapil,98263
+32026,Mazapil,98265
+32026,Mazapil,98270
+32026,Mazapil,98277
+32026,Mazapil,98279
+32026,Mazapil,98281
+32026,Mazapil,98286
+32028,Mezquital del Oro,99864
+32028,Mezquital del Oro,99867
+32028,Mezquital del Oro,99860
+32028,Mezquital del Oro,99865
+32030,Momax,99720
+32032,Morelos,98100
+32034,Nochistlán de Mejía,99902
+32034,Nochistlán de Mejía,99905
+32034,Nochistlán de Mejía,99907
+32034,Nochistlán de Mejía,99909
+32034,Nochistlán de Mejía,99913
+32034,Nochistlán de Mejía,99915
+32034,Nochistlán de Mejía,99918
+32034,Nochistlán de Mejía,99900
+32034,Nochistlán de Mejía,99904
+32034,Nochistlán de Mejía,99906
+32034,Nochistlán de Mejía,99908
+32034,Nochistlán de Mejía,99910
+32034,Nochistlán de Mejía,99914
+32034,Nochistlán de Mejía,99917
+32034,Nochistlán de Mejía,99919
+32036,Ojocaliente,98704
+32036,Ojocaliente,98706
+32036,Ojocaliente,98710
+32036,Ojocaliente,98713
+32036,Ojocaliente,98715
+32036,Ojocaliente,98717
+32036,Ojocaliente,98720
+32036,Ojocaliente,98724
+32036,Ojocaliente,98726
+32036,Ojocaliente,98700
+32036,Ojocaliente,98705
+32036,Ojocaliente,98707
+32036,Ojocaliente,98712
+32036,Ojocaliente,98714
+32036,Ojocaliente,98716
+32036,Ojocaliente,98718
+32036,Ojocaliente,98723
+32036,Ojocaliente,98725
+32036,Ojocaliente,98727
+32038,Pinos,98921
+32038,Pinos,98930
+32038,Pinos,98933
+32038,Pinos,98940
+32038,Pinos,98942
+32038,Pinos,98951
+32038,Pinos,98959
+32038,Pinos,98961
+32038,Pinos,98969
+32038,Pinos,98971
+32038,Pinos,98979
+32038,Pinos,98920
+32038,Pinos,98925
+32038,Pinos,98931
+32038,Pinos,98936
+32038,Pinos,98941
+32038,Pinos,98950
+32038,Pinos,98955
+32038,Pinos,98960
+32038,Pinos,98965
+32038,Pinos,98970
+32038,Pinos,98974
+32040,Sain Alto,99132
+32040,Sain Alto,99140
+32040,Sain Alto,99130
+32040,Sain Alto,99138
+32040,Sain Alto,99141
+32042,Sombrerete,99102
+32042,Sombrerete,99104
+32042,Sombrerete,99109
+32042,Sombrerete,99113
+32042,Sombrerete,99120
+32042,Sombrerete,99128
+32042,Sombrerete,99100
+32042,Sombrerete,99103
+32042,Sombrerete,99106
+32042,Sombrerete,99110
+32042,Sombrerete,99119
+32042,Sombrerete,99121
+32042,Sombrerete,99129
+32044,Tabasco,99644
+32044,Tabasco,99630
+32044,Tabasco,99650
+32046,Tepetongo,99580
+32046,Tepetongo,99570
+32046,Tepetongo,99581
+32048,Tlaltenango de Sánchez Román,99702
+32048,Tlaltenango de Sánchez Román,99705
+32048,Tlaltenango de Sánchez Román,99700
+32048,Tlaltenango de Sánchez Román,99704
+32048,Tlaltenango de Sánchez Román,99707
+32011,Trinidad García de la Cadena,99830
+32050,Vetagrande,98150
+32050,Vetagrande,98140
+32052,Villa García,98910
+32052,Villa García,98919
+32052,Villa García,98900
+32052,Villa García,98918
+32054,Villa Hidalgo,98986
+32054,Villa Hidalgo,98990
+32054,Villa Hidalgo,98995
+32054,Villa Hidalgo,98980
+32054,Villa Hidalgo,98988
+32054,Villa Hidalgo,98994
+32056,Zacatecas,98007
+32056,Zacatecas,98009
+32056,Zacatecas,98015
+32056,Zacatecas,98017
+32056,Zacatecas,98019
+32056,Zacatecas,98023
+32056,Zacatecas,98030
+32056,Zacatecas,98040
+32056,Zacatecas,98046
+32056,Zacatecas,98049
+32056,Zacatecas,98051
+32056,Zacatecas,98054
+32056,Zacatecas,98057
+32056,Zacatecas,98059
+32056,Zacatecas,98064
+32056,Zacatecas,98066
+32056,Zacatecas,98068
+32056,Zacatecas,98070
+32056,Zacatecas,98078
+32056,Zacatecas,98080
+32056,Zacatecas,98084
+32056,Zacatecas,98086
+32056,Zacatecas,98088
+32056,Zacatecas,98090
+32056,Zacatecas,98098
+32056,Zacatecas,98160
+32056,Zacatecas,98174
+32056,Zacatecas,98176
+32056,Zacatecas,98180
+32056,Zacatecas,98184
+32056,Zacatecas,98186
+32056,Zacatecas,98000
+32056,Zacatecas,98008
+32056,Zacatecas,98010
+32056,Zacatecas,98016
+32056,Zacatecas,98018
+32056,Zacatecas,98020
+32056,Zacatecas,98024
+32056,Zacatecas,98039
+32056,Zacatecas,98045
+32056,Zacatecas,98047
+32056,Zacatecas,98050
+32056,Zacatecas,98053
+32056,Zacatecas,98056
+32056,Zacatecas,98058
+32056,Zacatecas,98060
+32056,Zacatecas,98065
+32056,Zacatecas,98067
+32056,Zacatecas,98069
+32056,Zacatecas,98077
+32056,Zacatecas,98079
+32056,Zacatecas,98083
+32056,Zacatecas,98085
+32056,Zacatecas,98087
+32056,Zacatecas,98089
+32056,Zacatecas,98097
+32056,Zacatecas,98099
+32056,Zacatecas,98170
+32056,Zacatecas,98175
+32056,Zacatecas,98177
+32056,Zacatecas,98183
+32056,Zacatecas,98185
+32001,Apozol,99949
+32001,Apozol,99940
+32001,Apozol,99950
+32003,Atolinga,99730
+32005,Calera,98502
+32005,Calera,98504
+32005,Calera,98506
+32005,Calera,98508
+32005,Calera,98513
+32005,Calera,98519
+32005,Calera,98500
+32005,Calera,98503
+32005,Calera,98505
+32005,Calera,98507
+32005,Calera,98510
+32005,Calera,98515
+32005,Calera,98520
+32009,Chalchihuites,99270
+32009,Chalchihuites,99260
+32009,Chalchihuites,99279
+32008,Cuauhtémoc,98689
+32008,Cuauhtémoc,98692
+32008,Cuauhtémoc,98694
+32008,Cuauhtémoc,98696
+32008,Cuauhtémoc,98698
+32008,Cuauhtémoc,98680
+32008,Cuauhtémoc,98690
+32008,Cuauhtémoc,98693
+32008,Cuauhtémoc,98695
+32008,Cuauhtémoc,98697
+32041,El Salvador,98290
+32012,Genaro Codina,98667
+32012,Genaro Codina,98677
+32012,Genaro Codina,98660
+32012,Genaro Codina,98670
+32017,Guadalupe,98604
+32017,Guadalupe,98606
+32017,Guadalupe,98608
+32017,Guadalupe,98610
+32017,Guadalupe,98613
+32017,Guadalupe,98615
+32017,Guadalupe,98617
+32017,Guadalupe,98619
+32017,Guadalupe,98621
+32017,Guadalupe,98631
+32017,Guadalupe,98650
+32017,Guadalupe,98655
+32017,Guadalupe,98659
+32017,Guadalupe,98600
+32017,Guadalupe,98605
+32017,Guadalupe,98607
+32017,Guadalupe,98609
+32017,Guadalupe,98612
+32017,Guadalupe,98614
+32017,Guadalupe,98616
+32017,Guadalupe,98618
+32017,Guadalupe,98620
+32017,Guadalupe,98630
+32017,Guadalupe,98636
+32017,Guadalupe,98652
+32017,Guadalupe,98658
+32019,Jalpa,99602
+32019,Jalpa,99605
+32019,Jalpa,99607
+32019,Jalpa,99609
+32019,Jalpa,99624
+32019,Jalpa,99600
+32019,Jalpa,99603
+32019,Jalpa,99606
+32019,Jalpa,99608
+32019,Jalpa,99620
+32021,Jiménez del Teul,99280
+32023,Juchipila,99969
+32023,Juchipila,99974
+32023,Juchipila,99960
+32023,Juchipila,99970
+32023,Juchipila,99979
+32025,Luis Moya,98772
+32025,Luis Moya,98775
+32025,Luis Moya,98780
+32025,Luis Moya,98790
+32025,Luis Moya,98795
+32025,Luis Moya,98770
+32025,Luis Moya,98773
+32025,Luis Moya,98776
+32025,Luis Moya,98785
+32025,Luis Moya,98794
+32027,Melchor Ocampo,98222
+32027,Melchor Ocampo,98229
+32027,Melchor Ocampo,98220
+32027,Melchor Ocampo,98223
+32029,Miguel Auza,98336
+32029,Miguel Auza,98330
+32029,Miguel Auza,98340
+32031,Monte Escobedo,99403
+32031,Monte Escobedo,99420
+32031,Monte Escobedo,99436
+32031,Monte Escobedo,99400
+32031,Monte Escobedo,99410
+32031,Monte Escobedo,99430
+32033,Moyahua de Estrada,99984
+32033,Moyahua de Estrada,99990
+32033,Moyahua de Estrada,99994
+32033,Moyahua de Estrada,99980
+32033,Moyahua de Estrada,99987
+32033,Moyahua de Estrada,99993
+32033,Moyahua de Estrada,99998
+32035,Noria de Ángeles,98890
+32035,Noria de Ángeles,98880
+32037,Pánuco,98541
+32037,Pánuco,98546
+32037,Pánuco,98550
+32037,Pánuco,98540
+32037,Pánuco,98545
+32037,Pánuco,98548
+32039,Río Grande,98401
+32039,Río Grande,98404
+32039,Río Grande,98406
+32039,Río Grande,98410
+32039,Río Grande,98416
+32039,Río Grande,98420
+32039,Río Grande,98423
+32039,Río Grande,98425
+32039,Río Grande,98429
+32039,Río Grande,98400
+32039,Río Grande,98403
+32039,Río Grande,98405
+32039,Río Grande,98409
+32039,Río Grande,98413
+32039,Río Grande,98419
+32039,Río Grande,98422
+32039,Río Grande,98424
+32039,Río Grande,98426
+32058,Santa María de la Paz,99823
+32058,Santa María de la Paz,99825
+32058,Santa María de la Paz,99827
+32058,Santa María de la Paz,99820
+32058,Santa María de la Paz,99824
+32058,Santa María de la Paz,99826
+32058,Santa María de la Paz,99828
+32043,Susticacán,99480
+32045,Tepechitlán,99753
+32045,Tepechitlán,99760
+32045,Tepechitlán,99750
+32045,Tepechitlán,99755
+32045,Tepechitlán,99770
+32047,Teúl de González Ortega,99806
+32047,Teúl de González Ortega,99814
+32047,Teúl de González Ortega,99800
+32047,Teúl de González Ortega,99810
+32057,Trancoso,98644
+32057,Trancoso,98646
+32057,Trancoso,98648
+32057,Trancoso,98640
+32057,Trancoso,98645
+32057,Trancoso,98647
+32049,Valparaíso,99201
+32049,Valparaíso,99203
+32049,Valparaíso,99208
+32049,Valparaíso,99210
+32049,Valparaíso,99225
+32049,Valparaíso,99231
+32049,Valparaíso,99238
+32049,Valparaíso,99240
+32049,Valparaíso,99252
+32049,Valparaíso,99254
+32049,Valparaíso,99256
+32049,Valparaíso,99258
+32049,Valparaíso,99200
+32049,Valparaíso,99202
+32049,Valparaíso,99206
+32049,Valparaíso,99209
+32049,Valparaíso,99220
+32049,Valparaíso,99230
+32049,Valparaíso,99237
+32049,Valparaíso,99239
+32049,Valparaíso,99250
+32049,Valparaíso,99253
+32049,Valparaíso,99255
+32049,Valparaíso,99257
+32049,Valparaíso,99259
+32051,Villa de Cos,98432
+32051,Villa de Cos,98436
+32051,Villa de Cos,98445
+32051,Villa de Cos,98451
+32051,Villa de Cos,98453
+32051,Villa de Cos,98461
+32051,Villa de Cos,98471
+32051,Villa de Cos,98430
+32051,Villa de Cos,98435
+32051,Villa de Cos,98440
+32051,Villa de Cos,98450
+32051,Villa de Cos,98452
+32051,Villa de Cos,98460
+32051,Villa de Cos,98464
+32051,Villa de Cos,98473
+32053,Villa González Ortega,98850
+32053,Villa González Ortega,98840
+32053,Villa González Ortega,98870
+32055,Villanueva,99506
+32055,Villanueva,99520
+32055,Villanueva,99530
+32055,Villanueva,99542
+32055,Villanueva,99544
+32055,Villanueva,99546
+32055,Villanueva,99550
+32055,Villanueva,99559
+32055,Villanueva,99500
+32055,Villanueva,99510
+32055,Villanueva,99523
+32055,Villanueva,99540
+32055,Villanueva,99543
+32055,Villanueva,99545
+32055,Villanueva,99547
+32055,Villanueva,99552
+32055,Villanueva,99560
